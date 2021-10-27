@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    margin: 30px;
+    font-size: 120%;
+}
+input {
+    margin: 5px;
+    font-size: 100%;
+}
+button{
+    margin: 20px;
+    padding: 10px 20px; 
+    border-radius: 5px;
+    font-size: 100%;
+    background-color: rgb(32, 115, 224);
+}
+#kqua2{
+    width: 500px;
+}
+textarea{
+    font-size: 100%;
+}
